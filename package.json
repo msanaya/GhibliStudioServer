@@ -28,6 +28,7 @@
     "mime": "^4.0.1",
     "mrmime": "^2.0.0",
     "negotiator": "^0.6.3",
+    "node": "^18.20.3",
     "normalize-path": "^3.0.0",
     "picomatch": "^2.3.1",
     "readdirp": "^3.6.0",
@@ -39,7 +40,6 @@
     "totalist": "^3.0.1",
     "type-fest": "^3.13.1"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
